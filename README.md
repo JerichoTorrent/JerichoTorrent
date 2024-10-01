@@ -3,7 +3,7 @@ making resource packs, datapacks, Minecraft server administration, and other suc
 
 My server supports Java and Bedrock edition on pretty much any version you want to play on.  
 
-Also, this repo is for my ItemsAdder pack, because I didn't want to create a whole new repo for it.  
+Also, this repo is for my resource packs, because I didn't want to create a whole new repo for it.  
 
 # My Links  
 
