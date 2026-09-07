@@ -18,7 +18,7 @@ I am a firm believer in free and open source software. If you want to jump in to
 
 # Other Interests  
 
-- Powerlifting | 355lb bench press🗣️
+- Bodybuilding🗣️
 - Martial arts | State champion wrestler🤼
 - Gaming | Minecraft, Souls games, Blade and Sorcery
 - Content creation
